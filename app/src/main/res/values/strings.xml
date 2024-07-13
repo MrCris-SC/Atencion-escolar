@@ -1,0 +1,39 @@
+<resources>
+    <string name="navigation_drawer_open">Open Navigation drawer</string>
+    <string name="navigation_drawer_close">Close Navigation drawer</string>
+    <string name="app_name">Atencion escolar</string>
+
+    <string name="InicioAdmina">Inicio</string>
+    <string name="PendientesAdmin">Solicitudes Pendientes</string>
+    <string name="ResuelatasAdmin">Solicitudes Resueltas</string>
+    <string name="RegistrarAdmin">Registrar Administradores</string>
+    <string name="SalirAdmin">Cerrar Sesion</string>
+
+    <string name="InicioUser">Inicio</string>
+    <string name="PrerfilUser">Mi Perfil</string>
+    <string name="SeguimientoUser">Seguimiento de quejas</string>
+    <string name="BorradorUser">Borradores</string>
+    <string name="ResueltasUser">Quejas Resueltas</string>
+    <string name="SalirUser">Cerrar Sesion</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_contentDescription">image</string>
+    <string name="let_s_get_started_text">Vamos a ello</string>
+    <string name="intro_text_description">Facilita la comunicación y resolución de problemas en el ámbito escolar con nuestra aplicación especializada.</string>
+    <string name="sign_in">Inicia Sesion</string>
+    <string name="sign_up">Registrate</string>
+
+    <string name="sign_up_description_text">Ingresa tu nombre, correo y contraseña para registrarte con nosotros</string>
+    <string name="name">Nombre</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Correo</string>
+
+    <string name="sign_in_description_text">Ingresa tu correo y contraseña para Iniciar Sesion.</string>
+
+    <string name="please_click_back_again_to_exit">Presiona atras de nuevo para salir.</string>
+    <string name="please_wait">Por favor espere&#8230;</string>
+
+    <string name="nav_my_profile">My Profile</string>
+    <string name="nav_sign_out">Sign Out</string>
+    <string name="default_notification_channel_id">atencion_notification_channel_id</string>
+</resources>

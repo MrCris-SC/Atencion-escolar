@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870079676514",
+    "project_id": "atencion-escolarv2",
+    "storage_bucket": "atencion-escolarv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870079676514:android:81fdf90da06a2cc8b0113b",
+        "android_client_info": {
+          "package_name": "com.example.atencionescolar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK5Gywx-6sRe72jVJajv4swaoe9P1Ww8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
